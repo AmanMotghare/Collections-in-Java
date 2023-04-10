@@ -1,7 +1,8 @@
 package Arraylist;
 
-import java.awt.List;
 import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.LinkedList;
 
 public class ListArray {
 	
@@ -18,6 +19,8 @@ public class ListArray {
 		return list;
 	}
 	
+	
+
 	
 	
 	
